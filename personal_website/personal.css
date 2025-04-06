@@ -29,7 +29,7 @@ body {
 }
 
 .home-parallax {
-    background-image: url(../personal_images/pyramid.png);
+    background-image: url(../personal/images/beautifulpicture.jpg);
     font-size: 2em;
   
     min-height: 300px;
@@ -62,22 +62,6 @@ body {
 
 .life-parallax {
     background-image: url("../images/studentlife.png");
-    font-size: 2em;
-  
-    min-height: 300px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-  
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.assistance-parallax {
-    background-image: url("../images/tulips.jpg");
     font-size: 2em;
   
     min-height: 300px;
