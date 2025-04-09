@@ -44,8 +44,8 @@ body {
     background-size: cover;
 }
 
-.academic-parallax {
-    background-image: url("../images/studenttutor.png");
+.game-parallax {
+    background-image: url("../personal_images/controllerpic.jpeg");
     font-size: 2em;
   
     min-height: 300px;
@@ -60,7 +60,7 @@ body {
     background-size: cover;
 }
 
-.life-parallax {
+.calculator-parallax {
     background-image: url("../images/studentlife.png");
     font-size: 2em;
   
@@ -118,6 +118,7 @@ ul {
 
 .main-content {
     margin: 2.5% 5%;
+    text-align: center;
 }
 
 header {
@@ -225,4 +226,8 @@ article, .article-title {
     footer .byui-site {
         text-align: right;
     }
+}
+
+.calculatorpic2{
+    text-align: center;
 }
