@@ -3,6 +3,10 @@
     margin: 0 auto
 }
 
+#hero-img{
+    text-align: center;
+}
+
 #hero-msg{
     text-align: center;
 }
