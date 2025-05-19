@@ -1,0 +1,114 @@
+#content{
+    max-width: 1600px;
+    margin: 0 auto
+}
+
+#hero-msg{
+    text-align: center;
+}
+
+.button-box{
+    text-align: center;
+}
+
+nav{
+    text-align: left;
+    text-decoration: none;
+}
+
+#background{
+    height: 725px;
+}
+
+#background{
+   background-color: #E4B93A;
+}
+
+body{
+    background-color: #fcfbfb;
+}
+
+header{
+    background-color: #E4B93A;
+}
+
+nav:hover{
+    background-color:  turquoise;
+    color: black;
+}
+
+.book{
+    background-color: #E4B93A;
+}
+
+.join{
+    background-color: #E4B93A;
+    text-align: center;
+}
+
+.book:hover{
+    background-color: turquoise;
+    color: black;
+}
+
+.join:hover{
+    background-color: turquoise;
+    color: black;
+}
+
+.msg h2{
+    background-color: #E4B93A;
+    text-align: center;
+}
+
+.msg p{
+    background-color: #E4B93A;
+    text-align: center;
+}
+
+footer{
+    background-color: #E4B93A;
+}
+
+footer a{
+    background-color: #E4B93A;
+    text-decoration: none;
+}
+
+footer a:hover{
+    background-color: turquoise;
+    color: black;
+}
+
+.logo{
+    width: 80px;
+}
+
+.icon{
+    width: 80px;
+}
+
+footer p{
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+footer p:hover{
+    text-decoration: underline;
+}
+
+.rivers-card{
+    text-align: center;
+}
+.camping-card{
+    text-align: center;
+}
+
+.rapids-card{
+    text-align: center;
+}
+
+.msg{
+    background-color: #E4B93A;
+    text-align: center;
+}
