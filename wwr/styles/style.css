@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Rock+Salt&display=swap');
 
+.home-title{
+    font-size: 2em;
+}
+
 h1, h2{
     font-family: "Rock Salt", cursive;
     font-weight: 400;
@@ -53,12 +57,14 @@ nav:hover{
 .book{
     background-color: #E4B93A;
     padding: 15px 30px;
+    font-size: 18px;
 }
 
 .join{
     background-color: #E4B93A;
     text-align: center;
     padding: 15px 30px;
+    font-size: 18px;
 }
 
 .book:hover{
@@ -74,12 +80,14 @@ nav:hover{
 .msg h2{
     background-color: #E4B93A;
     text-align: center;
+    padding: 35px;
 }
 
 .msg p{
     background-color: #E4B93A;
     text-align: center;
     padding-bottom: 15px;
+    font-size: 8em;
 }
 
 footer{
@@ -140,10 +148,18 @@ footer p:hover{
 body {
     background-color: #fcfbfb;
     font-family: Raleway, Arial, sans-serif;
-    font-size: 15px;
+    font-size: 22px;
     margin: 0;
     padding: 0;
 }
 h2 {
     margin: 0;
+}
+
+#logo_link{
+    padding-top: 5px;
+}
+
+.social{
+    padding-top: 15px;
 }
