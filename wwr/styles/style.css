@@ -31,7 +31,27 @@ h1, h2{
 nav a{
     text-align: left;
     text-decoration: none;
-    padding: 35px;
+    padding: 5px;
+}
+
+.home1{
+    padding: 5px;
+}
+
+.home1:hover{
+    background-color:  turquoise;
+}
+
+.page2:hover{
+    background-color:  turquoise;
+}
+
+.siteplan1:hover{
+    background-color:  turquoise;
+}
+
+.contactus1:hover{
+    background-color:  turquoise;
 }
 
 #background{
@@ -51,7 +71,7 @@ header{
 }
 
 nav:hover{
-    background-color:  turquoise;
+    
     color: black;
 }
 
