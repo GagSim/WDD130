@@ -2,6 +2,7 @@
 
 .home-title{
     font-size: 2em;
+    margin-top: 10px;
 }
 
 h1, h2{
@@ -27,7 +28,7 @@ h1, h2{
     text-align: center;
 }
 
-nav{
+nav a{
     text-align: left;
     text-decoration: none;
     padding: 35px;
@@ -55,16 +56,20 @@ nav:hover{
 }
 
 .book{
-    background-color: #E4B93A;
+    background-color: turquoise;
     padding: 15px 30px;
     font-size: 18px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 
 .join{
-    background-color: #E4B93A;
+    background-color: turquoise;
     text-align: center;
     padding: 15px 30px;
     font-size: 18px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 
 .book:hover{
@@ -73,7 +78,7 @@ nav:hover{
 }
 
 .join:hover{
-    background-color: turquoise;
+    background-color: #E4B93A;
     color: black;
 }
 
@@ -87,12 +92,14 @@ nav:hover{
     background-color: #E4B93A;
     text-align: center;
     padding-bottom: 15px;
-    font-size: 8em;
+    font-size: .8em;
 }
 
 footer{
     background-color: #E4B93A;
     padding: 25px 50px;
+    padding-top: 15px;
+    margin-top: 200px;
 }
 
 footer a{
@@ -126,19 +133,35 @@ footer p:hover{
 
 .rivers-card{
     text-align: center;
+    margin: 200px 0;
 }
 .camping-card{
     text-align: center;
+    margin: 200px 0;
 }
 
 .rapids-card{
     text-align: center;
+    margin: 200px 0;
+}
+
+.card-img{
+    border: 10px solid #d9c2a3;
+}
+
+main section img{
+    box-sizing: border-box;
+}
+
+.mountains{
+    padding: 75px;
 }
 
 .msg{
     background-color: #E4B93A;
     text-align: center;
     padding: 35px;
+
 }
 
 #hero{
